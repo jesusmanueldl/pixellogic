@@ -3,6 +3,14 @@
 **PixelLogic** es un formato experimental de matriz binaria, **distinto de QR**, con cuatro localizadores cuadrados distribuidos, detección de geometría y protección de datos. Este repositorio contiene el **motor E35**, un generador, un lector de imágenes/fotografías y una interfaz de escritorio con comparación opcional frente a QR.
 
 > **Estado:** prototipo experimental funcional, **no** estándar, **no** reemplazo de QR. Los lectores QR convencionales **no** interpretan símbolos PixelLogic. Las fotografías difíciles y oclusiones pueden fallar. No utilizar para información crítica.
+>
+> El repositorio incluye herramientas para generar códigos PixelLogic, decodificar imágenes y fotografías, y realizar comparaciones visuales con códigos QR convencionales.
+
+Resultados de investigación: se consiguió generar y recuperar información de imágenes digitales y determinadas fotografías reales, incluso bajo condiciones de iluminación u oclusión limitadas.
+
+Limitaciones: PixelLogic no es un estándar internacional, requiere su propio lector y no ha demostrado superar de manera general a QR.
+
+Este proyecto se publica como una plataforma experimental de investigación y aprendizaje sobre codificación visual y recuperación de información.
 
 ## Ejemplo: «Laboratorio de lo Imposible»
 
