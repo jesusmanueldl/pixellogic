@@ -1,0 +1,9 @@
+﻿archivo,sistema,ok,texto,segundos,detalle
+comparacion.png,PixelLogic E35,True,Laboratorio de lo Imposible,0.029442090000003418,success
+comparacion.png,QR OpenCV,True,Laboratorio de lo Imposible,0.09115036500000429,
+laboratorio_pixellogic.png,PixelLogic E35,True,Laboratorio de lo Imposible,0.009493140000017775,success
+laboratorio_pixellogic.png,QR OpenCV,False,,0.0357056029999967,
+pixellogic.png,PixelLogic E35,True,Laboratorio de lo Imposible,0.008852679000000307,success
+pixellogic.png,QR OpenCV,False,,0.04292720999998778,
+qr_H.png,PixelLogic E35,False,,0.6091265219999968,failed
+qr_H.png,QR OpenCV,True,Laboratorio de lo Imposible,0.05022986599999513,
